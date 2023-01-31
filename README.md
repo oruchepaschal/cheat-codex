@@ -1,4 +1,4 @@
-# Cheet Codex (Otherwise known as a Cheat Sheet)
+# Cheat Codex (Otherwise known as a Cheat Sheet)
 
 Welcome to the DevOps Cheat Sheet! DevOps is a powerful set of practices that enable organizations to deliver applications and services at speeds never before possible. This codex is a continuously updated collection of cheat sheets for dependencies, frameworks, languages, and runtimes such as Git, Bash, Javascript etc. New items are regularly added to the list.
 
