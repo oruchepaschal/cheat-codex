@@ -42,6 +42,6 @@ We are very responsive to contributors, and review every patch we receive fairly
 So if you want to help out with Cheat Sheets, we'll be glad to accept your efforts!
 
 ## Support
-If you found this project amazing, helpful or interesting, please take little time to **star** it.
+If you found this project amazing, helpful or interesting, please take little time to **star** it on here.
 
 ❤️ ❤️ ❤️ Thanks ! Merci ! Gracias! 謝謝 !
