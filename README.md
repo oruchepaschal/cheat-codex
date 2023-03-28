@@ -44,4 +44,4 @@ So if you want to help out with Cheat Sheets, we'll be glad to accept your effor
 ## Support
 If you found this project amazing, helpful or interesting, please take little time to **star** it on here.
 
-❤️ ❤️ ❤️ Thanks ! Merci ! Gracias! 謝謝 !
+- ❤️ ❤️ ❤️ Thanks ! Merci ! Gracias! 謝謝 !
